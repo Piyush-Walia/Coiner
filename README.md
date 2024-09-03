@@ -40,13 +40,7 @@
 
 ##  Overview
 
-<code>❯ REPLACE-ME</code>
-
----
-
-##  Features
-
-<code>❯ REPLACE-ME</code>
+<code>❯ I have created a cryptocurrency tracker that monitors daily cryptocurrency prices using the React Native & CoinGecko API. This tool provides detailed historical and real-time data in graphical form, allowing users to analyze trends from past to present. The project is built using modern web technologies, including JavaScript for functionality, React for the front-end framework, HTML5 for structuring the content, Sass for styling, Axios for handling API requests, and JSON for managing data. This combination of tools ensures a responsive and interactive user experience.</code>
 
 ---
 
